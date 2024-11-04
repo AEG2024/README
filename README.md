@@ -16,7 +16,7 @@ This project is a numerology GUI that provides a comprehensive numerology report
  
 
 ## Features  
-### Brief descriptions are included with each numerology number, offering users a deeper understanding of their numerology results. A colorful, whimsical GUI that reflects the mystical arts theme, designed for simplicity and ease of use. Larger fonts and window dimensions for better readability and accommodation of detailed information. Tech Stack Python for program logic Tkinter for GUI design Visual Studio Code as the development environment Black for PEP8 code formatting and compliance
+Brief descriptions are included with each numerology number, offering users a deeper understanding of their numerology results. A colorful, whimsical GUI that reflects the mystical arts theme, designed for simplicity and ease of use. Larger fonts and window dimensions for better readability and accommodation of detailed information. Tech Stack Python for program logic Tkinter for GUI design Visual Studio Code as the development environment Black for PEP8 code formatting and compliance
 
 #### Features Calculates and displays: 
 
