@@ -10,7 +10,7 @@ Features Calculates and displays:
 •	Personality Number 
 Brief descriptions are included with each numerology number, offering users a deeper understanding of their numerology results. A colorful, whimsical GUI that reflects the mystical arts theme, designed for simplicity and ease of use. Larger fonts and window dimensions for better readability and accommodation of detailed information. Tech Stack Python for program logic Tkinter for GUI design Visual Studio Code as the development environment Black for PEP8 code formatting and compliance 
 Screenshot
-![My App Screenshot] https://github.com/AEG2024/README/blob/main/screenshot.JPG
+![My App Screenshot] [https://github.com/AEG2024/README/blob/main/screenshot.JPG](https://raw.githubusercontent.com/AEG2024/README/refs/heads/main/screenshot.JPG)
 Installation & Usage 
 
 •	Clone the repository. 
