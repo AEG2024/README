@@ -1,3 +1,4 @@
+![screenshot](https://github.com/user-attachments/assets/d95afa1f-d614-4455-aa31-b8effd8b39d8)
 # README
 
 Numerology GUI Program
